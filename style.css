@@ -1,0 +1,113 @@
+body{
+    font-family: 'Hind Siliguri', sans-serif;
+    margin: 0px;
+}
+.banner-1{
+    background-image: url("personal-website/header-bg.png");
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+}
+.button-links{
+    font-weight: 600;
+    background-color: rebeccapurple;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(241, 50, 200), purple);
+}
+p{
+    text-align: justify;
+}
+h1{
+    font-size: 50px;
+}
+span{
+    color: purple;
+}
+.top-part{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 5%;
+}
+.links{
+    text-decoration: none;
+}
+.top-part img{
+    width: 100%;
+}
+.banner-2{
+    background-image: url("personal-website/biography-bg.png");
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+    width: 1349px;
+    background-repeat: no-repeat;
+}
+.skills{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 10%;
+}
+.skills img{
+    width: 100%;
+}
+.work-part{
+    width: 30%;
+    float: left;
+    margin-left: 2%;
+}
+.banner-3{
+    background-image: url("personal-website/latest-work-bg.png");
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
+.work-part img{
+    width: 100%;
+}
+.move-right{
+    margin-left: 3%;
+}
+.all-centers{
+    text-align: center;
+}
+.banner-4{
+    background-image: url("personal-website/footer-bg.png");
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    width: 1300px;
+    background-repeat: no-repeat;
+}
+.comment{
+    width: 30%;
+    float: left;
+    margin-left: 1%;
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 1%;
+    border-radius: 10px;
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, rgb(5, 187, 5), rgb(95, 245, 95));
+    border-image-slice: 1;
+}
+#first-comment{
+    margin-left: 3%;
+}
+.last-class{
+    text-align: center;
+    background-color: rgb(175, 6, 175);
+    width: 30%;
+    position: absolute;
+    border-radius: 10px;
+    color: white;
+}
+#for-skills{
+    margin-left: 10%;
+}
+footer{
+    text-align: center;
+}
